@@ -43,11 +43,12 @@ Me apasiona trabajar con datos, construir sistemas eficientes y crear soluciones
 
 
 
-\## 📂 Proyectos destacados
+📂 Proyectos destacados
+1. Asistente de Archivos de IA
+Agente conversacional que utiliza la API de Google Gemini para interactuar con un sistema de archivos local. Permite a los usuarios leer, escribir y listar archivos a través de comandos de lenguaje natural, demostrando la capacidad del modelo para usar herramientas externas.
 
-\### 1. \[minigrep](https://github.com/DanielEOnetti/rust-text-search)  
-
-Mini clon de `grep` en Rust. CLI para búsqueda de texto con soporte sensible/insensible a mayúsculas y tests incluidos.
+2. minigrep
+Mini clon de grep en Rust. Una interfaz de línea de comandos (CLI) para la búsqueda de texto, con soporte para búsqueda sensible e insensible a mayúsculas y un conjunto de tests completo para garantizar la fiabilidad.
 
 ---
 
