@@ -1,69 +1,14 @@
-\# 👋 Hola, soy Daniel E Onetti
+# Daniel Echarri Onetti 🚀
 
-Soy estudiante de \*\*Máster en Desarrollo Full Stack\*\* con enfoque en \*\*Backend y Análisis de Datos\*\*.  
+Desarrollador Full-Stack enfocado en crear soluciones robustas con Python y JavaScript. Mi formación en Filosofía me aporta una capacidad crítica superior para el diseño de algoritmos y la resolución de problemas complejos.
 
-Me apasiona trabajar con datos, construir sistemas eficientes y crear soluciones que generen valor real.
+### 🛠️ Tecnologías
+- **Core:** Python (Django), JavaScript (ES6+), React.js.
+- **Data:** SQL, MySQL, Streamlit para análisis de métricas.
+- **Herramientas:** Git, GitHub, Metodologías Ágiles (Trello/Slack).
 
----
-
-
-
-\## 🛠 Tecnologías \& Herramientas
-
-\*\*Backend \& Desarrollo:\*\*
-
-\- Python, Flask, Django
-
-\- Rust (básico)
-
-\- Node.js (opcional si aplicas full stack)
-
-
-\*\*Bases de datos:\*\*
-
-\- PostgreSQL, MySQL, SQLite
-
-\- SQL avanzado
-
-
-
-\*\*Análisis de Datos:\*\*
-
-\- Pandas, NumPy, Matplotlib, Seaborn
-
-\- Jupyter Notebooks
-
-
-
-\*\*Control de versiones \& DevOps:\*\*
-
-\- Git, GitHub, GitHub Actions (básico)
+### 📂 Proyectos Destacados
+- **[Librújula](https://github.com/DanielEOnetti/librujula):** SPA en React optimizada para el consumo de APIs REST.
 
 ---
-
-
-
-📂 Proyectos destacados
-1. Asistente de Archivos de IA
-Agente conversacional que utiliza la API de Google Gemini para interactuar con un sistema de archivos local. Permite a los usuarios leer, escribir y listar archivos a través de comandos de lenguaje natural, demostrando la capacidad del modelo para usar herramientas externas.
-
-2. minigrep
-Mini clon de grep en Rust. Una interfaz de línea de comandos (CLI) para la búsqueda de texto, con soporte para búsqueda sensible e insensible a mayúsculas y un conjunto de tests completo para garantizar la fiabilidad.
-
----
-
-\## 📫 Contacto
-
-\- Email: \*\*danieleonetti12@gmail.com\*\*   
-
-\- GitHub: \[https://github.com/DanielEOnetti](https://github.com/DanielEOnetti)
-
----
-\## 🌱 Actualmente
-
-\- Profundizando en \*\*Backend con Django y FastAPI\*\*
-
-\- Mejorando habilidades en \*\*análisis de datos y visualización\*\*
-
-\- Explorando \*\*Rust y programación de sistemas\*\*
-
+📫 **Contacto:** danieleonetti12@gmail.com
