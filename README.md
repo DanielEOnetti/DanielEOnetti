@@ -9,7 +9,7 @@ Desarrollador Full-Stack enfocado en crear soluciones robustas con Python y Java
 
 ### 📂 Proyectos Destacados
 - **[NoteGym](https://github.com/DanielEOnetti/notegym):** Gestión deportiva con arquitectura MVC y base de datos relacional.
-- **[Librújula](https://github.com/DanielEOnetti/librujula):** SPA en React optimizada para el consumo de APIs REST.
+
 
 ---
 📫 **Contacto:** danieleonetti12@gmail.com
